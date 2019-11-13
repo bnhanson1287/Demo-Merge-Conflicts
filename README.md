@@ -1,3 +1,3 @@
 # Demo-Merge-Conflicts
 
-By Brendan Hanson
+A simple demo, by Brendan Hanson, for DMIT-2018
